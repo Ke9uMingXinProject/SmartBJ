@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhangkun/workspace/demo/Android_SmartBJ/viewPagerIndicatorLibrary/build/intermediates/res/merged/release/color/vpi__light_theme.xml",
+        "source": "/Users/zhangkun/workspace/demo/Android_SmartBJ/viewPagerIndicatorLibrary/src/main/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/demo/Android_SmartBJ/G:\\AndroidStudioProjects\\project\\Android_SmartBJ\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "/Users/zhangkun/workspace/demo/Android_SmartBJ/G:\\AndroidStudioProjects\\project\\Android_SmartBJ\\viewPagerIndicatorLibrary\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/demo/Android_SmartBJ/viewPagerIndicatorLibrary/build/intermediates/res/merged/release/color/vpi__dark_theme.xml",
+        "source": "/Users/zhangkun/workspace/demo/Android_SmartBJ/viewPagerIndicatorLibrary/src/main/res/color/vpi__dark_theme.xml"
+    },
+    {
+        "merged": "/Users/zhangkun/workspace/demo/Android_SmartBJ/G:\\AndroidStudioProjects\\project\\Android_SmartBJ\\viewPagerIndicatorLibrary\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "/Users/zhangkun/workspace/demo/Android_SmartBJ/G:\\AndroidStudioProjects\\project\\Android_SmartBJ\\viewPagerIndicatorLibrary\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    }
+]
